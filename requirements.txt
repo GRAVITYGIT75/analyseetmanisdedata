@@ -1,11 +1,5 @@
-
-ipython 
-
 pandas
-
 matplotlib
-
 seaborn
-
 streamlit 
 
